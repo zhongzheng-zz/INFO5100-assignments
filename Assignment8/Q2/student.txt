@@ -1,0 +1,4 @@
+100|EG|Male
+101|zz|Male
+102|qq|Other
+103|ww|Female
